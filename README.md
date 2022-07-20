@@ -1,2 +1,2 @@
-# DSA-Python
-A repo containing important DSA questions in Python
+# DSA
+A repo containing important DSA questions in C++
